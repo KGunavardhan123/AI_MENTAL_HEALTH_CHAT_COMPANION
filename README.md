@@ -1,1 +1,1 @@
-
+AI Mental Health Chat Companion is a web-based application designed to provide real-time emotional support and personalized mental health guidance. Utilizing advanced AI and Natural Language Processing (NLP) techniques, the application engages users in empathetic conversations, offering mood tracking, coping strategies, and mental wellness resources.
